@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d40cb87-1ef0-44c2-b403-1fe7db764d21" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/umlImplementation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/umlImplementation/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/umlImplementation/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/umlImplementation/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="b03d439f-78d4-46f7-a6dd-336da448661f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../challenge003/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../challenge003/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../challenge003/umlImplementation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../challenge003/umlImplementation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../challenge003/umlImplementation/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../challenge003/umlImplementation/.idea/modules.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,10 +14,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
-}</component>
-  <component name="ProjectId" id="2iNsSyZvyDBsEwUfVlKFVm2uNmG" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2jLdcoLd76sGHE1Aqy39xaA30qs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,14 +43,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0d40cb87-1ef0-44c2-b403-1fe7db764d21" name="Changes" comment="" />
-      <created>1719342372398</created>
+      <changelist id="b03d439f-78d4-46f7-a6dd-336da448661f" name="Changes" comment="" />
+      <created>1721170373383</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1719342372398</updated>
-      <workItem from="1719342373416" duration="19000" />
-      <workItem from="1719344557765" duration="27000" />
-      <workItem from="1721170325605" duration="47000" />
+      <updated>1721170373383</updated>
+      <workItem from="1721170374417" duration="72000" />
     </task>
     <servers />
   </component>
